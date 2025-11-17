@@ -10,7 +10,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
 
 ## 📋 Feature Comparison
 
-> **Shorthand for Compositors, for Readability Reasons:
+> **Shorthand for Compositors, for Readability Reasons:**
 > - H -> [Hyprland](https://hypr.land/)
 > - N -> [Niri](https://yalter.github.io/niri/)
 > - M -> [MangoWC](https://github.com/DreamMaoMao/mangowc)
