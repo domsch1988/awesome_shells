@@ -140,13 +140,13 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   </tr>
 
   <tr>
-    <td rowspan="2"><strong>Notaclia Shell</strong></td>
-    <td>❓</td>
+    <td rowspan="2"><strong>Noctalia Shell</strong></td>
+    <td>✅</td>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
-    <td>❌</td>
+    <td>✅</td>
     <td>❌</td>
     <td><a href="https://quickshell.org">Quickshell</a></td>
     <td><a href="https://docs.noctalia.dev/">Link</a></td>
