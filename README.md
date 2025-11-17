@@ -23,18 +23,18 @@ This repository compiles projects that provide cohesive user-interface layers—
     <th>Example Image</th>
   </tr>
 
-  <tr style="height: 1em;">
+  <tr style="height: auto;">
     <td rowspan="2"><strong>DankMaterialShell</strong></td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>✅</td>
-    <td>Quickshell</td>
-    <td><a href="https://danklinux.com">Link</a></td>
+    <td style="vertical-aligh: top;">✅</td>
+    <td style="vertical-aligh: top;">✅</td>
+    <td style="vertical-aligh: top;">✅</td>
+    <td style="vertical-aligh: top;">✅</td>
+    <td style="vertical-aligh: top;">✅</td>
+    <td style="vertical-aligh: top;">Quickshell</td>
+    <td style="vertical-aligh: top;"><a href="https://danklinux.com">Link</a></td>
     <td rowspan="2"><img src="https://danklinux.com/img/desktop.png" width="300"></td>
   </tr>
-  <tr>
+  <tr stlye="height: 100%">
     <td colspan="5">Notes: </td>
   </tr>
 
