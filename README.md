@@ -12,7 +12,8 @@ This repository compiles projects that provide cohesive user-interface layers—
 
 | Shell Name          | Hyprland | Niri | MangoWC | LabWC | DWL | Underlying Technology | Example Image |
 |---------------------|----------|------|---------|-------|-----|------------------------|---------------|
-| **DankMaterialShell** | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | Quickshell | ![DankMaterialShell](https://danklinux.com/img/desktop.png) |
+| **DankMaterialShell** |  |  |  |  |  | Quickshell | ![DankMaterialShell](https://danklinux.com/img/desktop.png) |
+| **aelys-shell** |  |  |  |  |  | Quickshell | ![DankMaterialShell](https://github.com/xZepyx/aelyx-shell/blob/main/previews/2.png?raw=true) |
 
 ---
 
