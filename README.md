@@ -43,7 +43,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     </td>
   </tr>
   <tr>
-    <td colspan="7">Notes: </td>
+    <td colspan="9">Notes: </td>
   </tr>
 
   <tr>
@@ -64,7 +64,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     </td>
   </tr>
   <tr>
-    <td colspan="7">Notes: </td>
+    <td colspan="9">Notes: </td>
   </tr>
 
   <tr>
@@ -85,7 +85,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     </td>
   </tr>
   <tr>
-    <td colspan="7">Notes: </td>
+    <td colspan="9">Notes: </td>
   </tr>
 
   <tr>
@@ -106,7 +106,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     </td>
   </tr>
   <tr>
-    <td colspan="7">Notes: Features a Plugin System</td>
+    <td colspan="9">Notes: Features a Plugin System</td>
   </tr>
 
   <tr>
@@ -127,7 +127,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     </td>
   </tr>
   <tr>
-    <td colspan="7">Notes: </td>
+    <td colspan="9">Notes: </td>
   </tr>
 
   <tr>
@@ -148,7 +148,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     </td>
   </tr>
   <tr>
-    <td colspan="7">Notes: </td>
+    <td colspan="9">Notes: </td>
   </tr>
 </table>
 
