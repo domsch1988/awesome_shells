@@ -12,6 +12,18 @@ This repository compiles projects that provide cohesive user-interface layers—
 
 <table>
   <tr>
+    <th>Shell Name</th>
+    <th>Hyprland</th>
+    <th>Niri</th>
+    <th>MangoWC</th>
+    <th>LabWC</th>
+    <th>DWL</th>
+    <th>Underlying Technology</th>
+    <th>Link</th>
+    <th>Example Image</th>
+  </tr>
+
+  <tr>
     <td rowspan="2"><strong>Aelyx Shell</strong></td>
     <td>✅</td>
     <td>❓</td>
@@ -39,17 +51,6 @@ This repository compiles projects that provide cohesive user-interface layers—
   </tr>
   <tr>
     <td colspan="7">Notes: </td>
-  </tr>
-  <tr>
-    <th>Shell Name</th>
-    <th>Hyprland</th>
-    <th>Niri</th>
-    <th>MangoWC</th>
-    <th>LabWC</th>
-    <th>DWL</th>
-    <th>Underlying Technology</th>
-    <th>Link</th>
-    <th>Example Image</th>
   </tr>
 
   <tr>
