@@ -13,13 +13,13 @@ This repository compiles projects that provide cohesive user-interface: panels, 
 <table>
   <tr>
     <th>Shell Name</th>
-    <th>Hyprland</th>
-    <th>Niri</th>
-    <th>MangoWC</th>
-    <th>LabWC</th>
-    <th>DWL</th>
-    <th>Sway</th>
-    <th>Wayfire</th>
+    <th style="writing-mode: vertical-rl;">Hyprland</th>
+    <th style="writing-mode: vertical-rl;">Niri</th>
+    <th style="writing-mode: vertical-rl;">MangoWC</th>
+    <th style="writing-mode: vertical-rl;">LabWC</th>
+    <th style="writing-mode: vertical-rl;">DWL</th>
+    <th style="writing-mode: vertical-rl;">Sway</th>
+    <th style="writing-mode: vertical-rl;">Wayfire</th>
     <th>Underlying Technology</th>
     <th>Link</th>
     <th>Example Image</th>
