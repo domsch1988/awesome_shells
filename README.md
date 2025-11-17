@@ -10,16 +10,25 @@ This repository compiles projects that provide cohesive user-interface: panels, 
 
 ## 📋 Feature Comparison
 
+> **Shorthand for Compositors, for Readability Reasons:
+> - H -> [Hyprland](https://hypr.land/)
+> - N -> [Niri](https://yalter.github.io/niri/)
+> - M -> [MangoWC](https://github.com/DreamMaoMao/mangowc)
+> - L -> [LabWC](https://labwc.github.io/)
+> - D -> [DWL](https://codeberg.org/dwl/dwl)
+> - S -> [Sway](https://swaywm.org/)
+> - W -> [Wayfire](https://wayfire.org/)
+
 <table>
   <tr>
     <th>Shell Name</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Hyprland</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Niri</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">MangoWC</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">LabWC</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">DWL</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Sway</th>
-    <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Wayfire</th>
+    <th>H</th>
+    <th>N</th>
+    <th>M</th>
+    <th>L</th>
+    <th>D</th>
+    <th>S</th>
+    <th>W</th>
     <th>Underlying Technology</th>
     <th>Link</th>
     <th>Example Image</th>
