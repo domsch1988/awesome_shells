@@ -13,6 +13,7 @@ This repository compiles projects that provide cohesive user-interface layers—
 | Shell Name          | Hyprland | Niri | MangoWC | LabWC | DWL | Underlying Technology | Link | Example Image |
 |---------------------|----------|------|---------|-------|-----|------------------------|-------|--------|
 | **DankMaterialShell** | ✅ | ✅ | ✅ | ✅ | ✅ | Quickshell | [Link](https://danklinux.com) | ![DankMaterialShell](https://danklinux.com/img/desktop.png) |
+| **Notaclia Shell** | ❓ | ✅ | ❌ | ❌ | ❌ | Quickshell | [Link](https://docs.noctalia.dev/) | ![NoctaliaShell](https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true) |
 | **aelys-shell** | ✅ | ❓ | ❓ | ❓ | ❓ | Quickshell | [Link](https://github.com/xZepyx/aelyx-shell?tab=readme-ov-file) |![aelyx-shell](https://github.com/xZepyx/aelyx-shell/blob/main/previews/2.png?raw=true) |
 
 ---
