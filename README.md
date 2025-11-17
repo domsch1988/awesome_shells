@@ -14,7 +14,7 @@ This repository compiles projects that provide cohesive user-interface layers—
 |---------------------|----------|------|---------|-------|-----|------------------------|-------|--------|
 | **DankMaterialShell** | ✅ | ✅ | ✅ | ✅ | ✅ | Quickshell | [Link](https://danklinux.com) | ![DankMaterialShell](https://danklinux.com/img/desktop.png) |
 | **Notaclia Shell** | ❓ | ✅ | ❌ | ❌ | ❌ | Quickshell | [Link](https://docs.noctalia.dev/) | ![NoctaliaShell](https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true) |
-| **Caelestia Shell** | ✅ | ❌ | ❌ | ❌ | ❌ | Quickshell | [Link](https://github.com/caelestia-dots/shell) | https://github.com/user-attachments/assets/0840f496-575c-4ca6-83a8-87bb01a85c5f |
+| **Caelestia Shell** | ✅ | ❌ | ❌ | ❌ | ❌ | Quickshell | [Link](https://github.com/caelestia-dots/shell) | ![CaelestiaShell](https://preview.redd.it/modified-from-caelestia-dots-v0-rao3276piawf1.png?width=1080&crop=smart&auto=webp&s=a5d737ce1093c3028d4b81927029cfa11d8d1c92) |
 | **Aelyx Shell** | ✅ | ❓ | ❓ | ❓ | ❓ | Quickshell | [Link](https://github.com/xZepyx/aelyx-shell?tab=readme-ov-file) |![aelyx-shell](https://github.com/xZepyx/aelyx-shell/blob/main/previews/2.png?raw=true) |
 
 ---
