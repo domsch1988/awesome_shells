@@ -18,6 +18,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <th>MangoWC</th>
     <th>LabWC</th>
     <th>DWL</th>
+    <th>Sway</th>
+    <th>Wayfire</th>
     <th>Underlying Technology</th>
     <th>Link</th>
     <th>Example Image</th>
@@ -26,6 +28,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   <tr>
     <td rowspan="2"><strong>Aelyx Shell</strong></td>
     <td>✅</td>
+    <td>❓</td>
+    <td>❓</td>
     <td>❓</td>
     <td>❓</td>
     <td>❓</td>
@@ -49,6 +53,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
+    <td>❓</td>
+    <td>❓</td>
     <td><a href="https://wiki.ffpy.org">Fabric</a></td>
     <td><a href="https://github.com/Axenide/Ax-Shell">Link</a></td>
     <td rowspan="2">
@@ -64,6 +70,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   <tr>
     <td rowspan="2"><strong>Caelestia Shell</strong></td>
     <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
@@ -87,6 +95,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
+    <td>✅</td>
+    <td>❓</td>
     <td><a href="https://quickshell.org">Quickshell</a></td>
     <td><a href="https://danklinux.com">Link</a></td>
     <td rowspan="2">
@@ -102,6 +112,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   <tr>
     <td rowspan="2"><strong>Modus</strong></td>
     <td>✅</td>
+    <td>❓</td>
+    <td>❓</td>
     <td>❓</td>
     <td>❓</td>
     <td>❓</td>
@@ -122,6 +134,8 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td rowspan="2"><strong>Notaclia Shell</strong></td>
     <td>❓</td>
     <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
