@@ -35,7 +35,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td rowspan="2"><img src="https://danklinux.com/img/desktop.png" width="300"></td>
   </tr>
   <tr>
-    <td colspan="5">Notes: Features a Plugin System</td>
+    <td colspan="7">Notes: Features a Plugin System</td>
   </tr>
 
   <tr>
@@ -50,7 +50,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td rowspan="2"><img src="https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true" width="300"></td>
   </tr>
   <tr>
-    <td colspan="5">Notes: </td>
+    <td colspan="7">Notes: </td>
   </tr>
 
   <tr>
@@ -65,7 +65,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td rowspan="2"><img src="https://preview.redd.it/modified-from-caelestia-dots-v0-rao3276piawf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a5d737ce1093c3028d4b81927029cfa11d8d1c92" width="300"></td>
   </tr>
   <tr>
-    <td colspan="5">Notes: </td>
+    <td colspan="7">Notes: </td>
   </tr>
 
   <tr>
@@ -80,7 +80,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td rowspan="2"><img src="https://github.com/xZepyx/aelyx-shell/blob/main/previews/2.png?raw=true" width="300"></td>
   </tr>
   <tr>
-    <td colspan="5">Notes: </td>
+    <td colspan="7">Notes: </td>
   </tr>
 
   <tr>
@@ -95,7 +95,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td rowspan="2"><img src="https://github.com/Axenide/Ax-Shell/blob/main/assets/screenshots/1.png?raw=true" width="300"></td>
   </tr>
   <tr>
-    <td colspan="5">Notes: </td>
+    <td colspan="7">Notes: </td>
   </tr>
 </table>
 
