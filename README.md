@@ -23,19 +23,19 @@ This repository compiles projects that provide cohesive user-interface layers—
     <th>Example Image</th>
   </tr>
 
-  <tr style="height: auto;">
+  <tr>
     <td rowspan="2"><strong>DankMaterialShell</strong></td>
-    <td style="vertical-aligh: top;">✅</td>
-    <td style="vertical-aligh: top;">✅</td>
-    <td style="vertical-aligh: top;">✅</td>
-    <td style="vertical-aligh: top;">✅</td>
-    <td style="vertical-aligh: top;">✅</td>
-    <td style="vertical-aligh: top;">Quickshell</td>
-    <td style="vertical-aligh: top;"><a href="https://danklinux.com">Link</a></td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>[Quickshell](https://quickshell.org/)</td>
+    <td><a href="https://danklinux.com">Link</a></td>
     <td rowspan="2"><img src="https://danklinux.com/img/desktop.png" width="300"></td>
   </tr>
-  <tr stlye="height: 100%">
-    <td colspan="5">Notes: </td>
+  <tr>
+    <td colspan="5">Notes: Features a Plugin System</td>
   </tr>
 
   <tr>
@@ -45,7 +45,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
-    <td>Quickshell</td>
+    <td>[Quickshell](https://quickshell.org/)</td>
     <td><a href="https://docs.noctalia.dev/">Link</a></td>
     <td rowspan="2"><img src="https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true" width="300"></td>
   </tr>
@@ -60,7 +60,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td>❌</td>
     <td>❌</td>
     <td>❌</td>
-    <td>Quickshell</td>
+    <td>[Quickshell](https://quickshell.org/)</td>
     <td><a href="https://github.com/caelestia-dots/shell">Link</a></td>
     <td rowspan="2"><img src="https://preview.redd.it/modified-from-caelestia-dots-v0-rao3276piawf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a5d737ce1093c3028d4b81927029cfa11d8d1c92" width="300"></td>
   </tr>
@@ -75,14 +75,29 @@ This repository compiles projects that provide cohesive user-interface layers—
     <td>❓</td>
     <td>❓</td>
     <td>❓</td>
-    <td>Quickshell</td>
+    <td>[Quickshell](https://quickshell.org/)</td>
     <td><a href="https://github.com/xZepyx/aelyx-shell?tab=readme-ov-file">Link</a></td>
     <td rowspan="2"><img src="https://github.com/xZepyx/aelyx-shell/blob/main/previews/2.png?raw=true" width="300"></td>
   </tr>
-</table>
   <tr>
     <td colspan="5">Notes: </td>
   </tr>
+
+  <tr>
+    <td rowspan="2"><strong>Ax-Shell</strong></td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>[Fabric](https://wiki.ffpy.org/)</td>
+    <td><a href="https://github.com/Axenide/Ax-Shell">Link</a></td>
+    <td rowspan="2"><img src="https://github.com/Axenide/Ax-Shell/blob/main/assets/screenshots/1.png?raw=true" width="300"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Notes: </td>
+  </tr>
+</table>
 
 ---
 
