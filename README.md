@@ -23,7 +23,7 @@ This repository compiles projects that provide cohesive user-interface layers—
     <th>Example Image</th>
   </tr>
 
-  <tr>
+  <tr style="height: 1em;">
     <td rowspan="2"><strong>DankMaterialShell</strong></td>
     <td>✅</td>
     <td>✅</td>
