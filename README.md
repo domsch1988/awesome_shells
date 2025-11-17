@@ -10,15 +10,6 @@ This repository compiles projects that provide cohesive user-interface layers—
 
 ## 📋 Feature Comparison
 
-| Shell Name          | Hyprland | Niri | MangoWC | LabWC | DWL | Underlying Technology | Link | Example Image |
-|---------------------|----------|------|---------|-------|-----|------------------------|-------|--------|
-| **DankMaterialShell** | ✅ | ✅ | ✅ | ✅ | ✅ | Quickshell | [Link](https://danklinux.com) | ![DankMaterialShell](https://danklinux.com/img/desktop.png) |
-| **Notaclia Shell** | ❓ | ✅ | ❌ | ❌ | ❌ | Quickshell | [Link](https://docs.noctalia.dev/) | ![NoctaliaShell](https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true) |
-| **Caelestia Shell** | ✅ | ❌ | ❌ | ❌ | ❌ | Quickshell | [Link](https://github.com/caelestia-dots/shell) | ![CaelestiaShell](https://preview.redd.it/modified-from-caelestia-dots-v0-rao3276piawf1.png?width=1080&crop=smart&auto=webp&s=a5d737ce1093c3028d4b81927029cfa11d8d1c92) |
-| **Aelyx Shell** | ✅ | ❓ | ❓ | ❓ | ❓ | Quickshell | [Link](https://github.com/xZepyx/aelyx-shell?tab=readme-ov-file) |![aelyx-shell](https://github.com/xZepyx/aelyx-shell/blob/main/previews/2.png?raw=true) |
-
-## HTML Test
-
 <table>
   <tr>
     <th>Shell Name</th>
@@ -29,11 +20,11 @@ This repository compiles projects that provide cohesive user-interface layers—
     <th>DWL</th>
     <th>Underlying Technology</th>
     <th>Link</th>
-    <th>Example Image</th>
+    <th rowspan="2">Example Image</th>
   </tr>
 
   <tr>
-    <td><strong>DankMaterialShell</strong></td>
+    <td rowspan="2"><strong>DankMaterialShell</strong></td>
     <td>✅</td>
     <td>✅</td>
     <td>✅</td>
@@ -45,7 +36,7 @@ This repository compiles projects that provide cohesive user-interface layers—
   </tr>
 
   <tr>
-    <td><strong>Notaclia Shell</strong></td>
+    <td rowspan="2"><strong>Notaclia Shell</strong></td>
     <td>❓</td>
     <td>✅</td>
     <td>❌</td>
@@ -57,7 +48,7 @@ This repository compiles projects that provide cohesive user-interface layers—
   </tr>
 
   <tr>
-    <td><strong>Caelestia Shell</strong></td>
+    <td rowspan="2"><strong>Caelestia Shell</strong></td>
     <td>✅</td>
     <td>❌</td>
     <td>❌</td>
@@ -69,7 +60,7 @@ This repository compiles projects that provide cohesive user-interface layers—
   </tr>
 
   <tr>
-    <td><strong>Aelyx Shell</strong></td>
+    <td rowspan="2"><strong>Aelyx Shell</strong></td>
     <td>✅</td>
     <td>❓</td>
     <td>❓</td>
