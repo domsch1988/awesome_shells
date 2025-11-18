@@ -159,6 +159,27 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   <tr>
     <td colspan="9">Notes: </td>
   </tr>
+
+  <tr>
+    <td rowspan="2"><strong>OkPanel</strong></td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td><a href="https://aylur.github.io/ags/">Ags</a></td>
+    <td><a href="https://johnoberhauser.github.io/OkPanel/">Link</a></td>
+    <td rowspan="2">
+      <a href="https://raw.githubusercontent.com/JohnOberhauser/OkPanelScreenshots/refs/heads/main/menu.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/JohnOberhauser/OkPanelScreenshots/refs/heads/main/menu.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="9">Notes: </td>
+  </tr>
 </table>
 
 ---
