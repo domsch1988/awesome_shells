@@ -18,6 +18,11 @@ This repository compiles projects that provide cohesive user-interface: panels, 
 > - D -> [DWL](https://codeberg.org/dwl/dwl)
 > - S -> [Sway](https://swaywm.org/)
 > - W -> [Wayfire](https://wayfire.org/)
+>
+> **Legend**
+> ✅-> Officially supported
+> ❓-> Not Officially supported but might work/Limited Functionality
+> ❌-> Known Bugs
 
 <table>
   <tr>
@@ -58,10 +63,10 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   <tr>
     <td rowspan="2"><strong>Ax-Shell</strong></td>
     <td>✅</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
     <td>❓</td>
     <td>❓</td>
     <td><a href="https://wiki.ffpy.org">Fabric</a></td>
@@ -79,12 +84,12 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   <tr>
     <td rowspan="2"><strong>Caelestia Shell</strong></td>
     <td>✅</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
     <td><a href="https://quickshell.org">Quickshell</a></td>
     <td><a href="https://github.com/caelestia-dots/shell">Link</a></td>
     <td rowspan="2">
@@ -143,16 +148,37 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td rowspan="2"><strong>Noctalia Shell</strong></td>
     <td>✅</td>
     <td>✅</td>
-    <td>❌</td>
-    <td>❌</td>
-    <td>❌</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
     <td>✅</td>
-    <td>❌</td>
+    <td>❓</td>
     <td><a href="https://quickshell.org">Quickshell</a></td>
     <td><a href="https://docs.noctalia.dev/">Link</a></td>
     <td rowspan="2">
       <a href="https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true" target="_blank">
         <img src="https://github.com/noctalia-dev/noctalia-shell/blob/main/Assets/Screenshots/noctalia-dark-3.png?raw=true" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="9">Notes: </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"><strong>OkPanel</strong></td>
+    <td>✅</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td><a href="https://aylur.github.io/ags/">Ags</a></td>
+    <td><a href="https://johnoberhauser.github.io/OkPanel/">Link</a></td>
+    <td rowspan="2">
+      <a href="https://raw.githubusercontent.com/JohnOberhauser/OkPanelScreenshots/refs/heads/main/menu.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/JohnOberhauser/OkPanelScreenshots/refs/heads/main/menu.png" width="300">
       </a>
     </td>
   </tr>
