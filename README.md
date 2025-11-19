@@ -20,9 +20,9 @@ This repository compiles projects that provide cohesive user-interface: panels, 
 > - W -> [Wayfire](https://wayfire.org/)
 >
 > **Legend**
-> ✅-> Officially supported
-> ❓-> Not Officially supported but might work/Limited Functionality
-> ❌-> Known Bugs
+> - ✅-> Officially supported
+> - ❓-> Not Officially supported but might work/Limited Functionality
+> - ❌-> Known Bugs
 
 <table>
   <tr>
