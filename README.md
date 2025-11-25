@@ -145,6 +145,27 @@ This repository compiles projects that provide cohesive user-interface: panels, 
   </tr>
 
   <tr>
+    <td rowspan="2"><strong>illogical-impulse</strong></td>
+    <td>✅</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td><a href="https://quickshell.org">Quickshell</a></td>
+    <td><a href="https://ii.clsty.link/en/">Link</a></td>
+    <td rowspan="2">
+      <a href="https://github.com/user-attachments/assets/ea0154a1-e984-4bb6-a424-23247cefe3c6" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ea0154a1-e984-4bb6-a424-23247cefe3c6" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="9">Notes: </td>
+  </tr>
+
+  <tr>
     <td rowspan="2"><strong>Modus</strong></td>
     <td>✅</td>
     <td>❓</td>
