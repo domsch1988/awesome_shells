@@ -123,6 +123,48 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td colspan="9">Notes: Features a Plugin System</td>
   </tr>
 
+   <tr>
+    <td rowspan="2"><strong>Exo</strong></td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td><a href="https://ignis-sh.github.io/ignis/stable/index.html">Ignis</a></td>
+    <td><a href="https://github.com/debuggyo/Exo">Link</a></td>
+    <td rowspan="2">
+      <a href="https://github.com/user-attachments/assets/3a02e717-42de-4c5e-9aba-78d9840e5d5a" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3a02e717-42de-4c5e-9aba-78d9840e5d5a" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="9">Notes: </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"><strong>illogical-impulse</strong></td>
+    <td>✅</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td>❓</td>
+    <td><a href="https://quickshell.org">Quickshell</a></td>
+    <td><a href="https://ii.clsty.link/en/">Link</a></td>
+    <td rowspan="2">
+      <a href="https://github.com/user-attachments/assets/ea0154a1-e984-4bb6-a424-23247cefe3c6" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ea0154a1-e984-4bb6-a424-23247cefe3c6" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="9">Notes: </td>
+  </tr>
+
   <tr>
     <td rowspan="2"><strong>Modus</strong></td>
     <td>✅</td>
@@ -148,7 +190,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td rowspan="2"><strong>Noctalia Shell</strong></td>
     <td>✅</td>
     <td>✅</td>
-    <td>❓</td>
+    <td>✅</td>
     <td>❓</td>
     <td>❓</td>
     <td>✅</td>
