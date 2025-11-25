@@ -190,7 +190,7 @@ This repository compiles projects that provide cohesive user-interface: panels, 
     <td rowspan="2"><strong>Noctalia Shell</strong></td>
     <td>✅</td>
     <td>✅</td>
-    <td>❓</td>
+    <td>✅</td>
     <td>❓</td>
     <td>❓</td>
     <td>✅</td>
